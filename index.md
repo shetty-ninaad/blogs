@@ -1,5 +1,5 @@
 ---
-title: Ninad Shetty
+layout: default
 ---
 
 ## About Me
