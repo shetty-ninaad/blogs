@@ -1,1 +1,15 @@
-theme: minima
+theme: jekyll-theme-cayman
+author: Ninad Shetty (c)
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+  
+  social-network-links:
+  email: "shetty.ninaad@gmail.com"
+  github: shetty-ninaad
+  twitter: IamNinaad
+  linkedin: ninad-shetty-352336129
