@@ -7,9 +7,13 @@ social-network-links:
   linkedin: ninad-shetty-352336129
 ---
 
-
 ## About Me
-Highly skilled and motivated Software Engineer with experience in security features, automation, and system development. Seeking to leverage my skills and experience to contribute to a dynamic and innovative team.
+Innovator, Problem-solver, Software Engineer, and Cybersecurity Specialist - I wear many hats but at the core of it all, I am a tech enthusiast who thrives on transforming challenges into opportunities.
+
+With an M.S. in Security Informatics from Johns Hopkins University and a B.Tech. in Computer Science from Manipal Institute of Technology, my academic journey has been an immersive exploration of the digital world. My coursework in Cloud Computing, Network Security, Ethical Hacking, and Cybersecurity Risk Management has fuelled my passion and expertise in the field.
+
+My professional journey has been equally exciting. From developing a scalable tool at Amazon Web Services to innovating a unique security feature at Norton LifeLock, I have consistently pushed boundaries to ensure robust and secure systems. My knack for integrating interfaces, extending automation frameworks, and creating dashboards for metric collection highlights my versatility in navigating the tech landscape.
+
 ## SKILLS
 #### Technical Skills:
 - **Programming Languages**: Python, C++, JavaScript (Node.js), C, Java, SQL, Shell
@@ -24,9 +28,9 @@ Highly skilled and motivated Software Engineer with experience in security featu
 - **Attention to Detail**: Thorough testing, identifying configuration drift
 
 ## EDUCATION
-Master of Science in Security Informatics, **Johns Hopkins University**, Baltimore MD (December 2022)
+- Master of Science in Security Informatics, **Johns Hopkins University**, Baltimore MD (December 2022)
 
-Bachelor of Technology in Computer Science, **Manipal University**, India (June 2018 )
+- Bachelor of Technology in Computer Science, **Manipal University**, India (June 2018 )
 ## WORK EXPERIENCE
 **Software Engineer, Tektone**, March 2023-Current 
 Franklin, NC 
@@ -66,12 +70,12 @@ Chennai, India
 - Designed and implemented a conditional payment mechanism on an Ethereum Virtual Machine, addressing the issue of unrecoverable payments in ransomware attacks.
 - Utilized Solidity for smart contract development and Truffle as the development environment and testing framework.
 - This project demonstrated a novel use of blockchain technology to provide security and assurance in high-risk transactions
-- 
-## ACTIVITIES AND HONORS
-2018: Received the company-wide WOW Award at Symantec for exceptional performance and contributions.
-2014: Awarded the National All India Council for Technical Education Scholarship for academic excellence.
 
-## WEBSITES, PORTFOLIOS, PROFILES
-LinkedIn : https://www.linkedin.com/in/ninad-shetty-352336129/ 
-Website : https://shetty-ninaad.github.io/skills-github-pages/ 
-Twitter : https://twitter.com/IamNinaad
+## ACTIVITIES AND HONORS
+- 2018: Received the company-wide WOW Award at Symantec for exceptional performance and contributions.
+- 2014: Awarded the National All India Council for Technical Education Scholarship for academic excellence.
+
+## Social Media Links ;)
+[LinkedIn](https://www.linkedin.com/in/ninad-shetty-352336129/ ) : 
+ 
+[Twitter]( https://twitter.com/IamNinaad) 
