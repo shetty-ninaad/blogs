@@ -1,10 +1,5 @@
 ---
-title: Welcome to my blog
-social-network-links:
-  email: "shetty.ninaad@gmail.com"
-  github: shetty-ninaad
-  twitter: IamNinaad
-  linkedin: ninad-shetty-352336129
+title: Ninad Shetty
 ---
 
 ## About Me
