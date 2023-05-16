@@ -9,6 +9,8 @@ With an M.S. in Security Informatics from Johns Hopkins University and a B.Tech.
 
 My professional journey has been equally exciting. From developing a scalable tool at Amazon Web Services to innovating a unique security feature at Norton LifeLock, I have consistently pushed boundaries to ensure robust and secure systems. My knack for integrating interfaces, extending automation frameworks, and creating dashboards for metric collection highlights my versatility in navigating the tech landscape.
 
+[LinkedIn](https://www.linkedin.com/in/ninad-shetty-352336129/ ) | [Twitter]( https://twitter.com/IamNinaad) 
+
 ## SKILLS
 #### Technical Skills:
 - **Programming Languages**: Python, C++, JavaScript (Node.js), C, Java, SQL, Shell
@@ -16,6 +18,7 @@ My professional journey has been equally exciting. From developing a scalable to
 - **Operating Systems**: Windows, Linux, Debian, Kali Linux
 - **Cybersecurity**: Penetration Testing, Static Code Scanning, Threat Modeling, Network Security
 - **Software Development**: Full Stack Development, Backend Development, Automation, Network Module Development
+
 #### Soft Skills:
 - **Communication**: Collaborating with teams, presenting to stakeholders
 - **Problem-Solving**: Identifying and fixing security vulnerabilities, addressing system inconsistencies
@@ -26,7 +29,9 @@ My professional journey has been equally exciting. From developing a scalable to
 - Master of Science in Security Informatics, **Johns Hopkins University**, Baltimore MD (December 2022)
 
 - Bachelor of Technology in Computer Science, **Manipal University**, India (June 2018 )
+
 ## WORK EXPERIENCE
+
 **Software Engineer, Tektone**, March 2023-Current 
 Franklin, NC 
 - Upgraded the server from Debian 8 to Debian 11, ensuring compliance with the latest security standards and updating the network module for compatibility using Python.
@@ -52,16 +57,20 @@ Chennai, India
 
 ## PROJECTS
 
-#### eCommerce bot detection and analysis
+#### eCommerce bot detection and analysis 
+[More details..](./proj_ecommercebot.html)
 - Developed a robust bot detection system for e-commerce platforms aimed at differentiating bots from legitimate users, using Python, JavaScript, Selenium, and Flask.
 - Conducted extensive research to understand and counteract advanced bot techniques. Utilized various methodologies, including CAPTCHA, Browser Fingerprinting, IP Tracking, Honeypots, response time analysis, and User Agent identification to create a comprehensive bot-detection model.
 - Engineered a rating model that predicts the likelihood of a site visitor being a human or a malicious bot, improving website security and user experience.
+
 #### Secure eVoting Machine Development and Penetration Testing
+[More details..](./proj_evm.html)
 - Designed and developed a secure eVoting machine, implementing SQL injection prevention, data encryption, multi-factor authentication, and user role management to bolster system security.
 - Conducted penetration testing on peers' voting machines, identifying vulnerabilities that could potentially manipulate election results, and suggested remedial measures.
 - This project demonstrated the application of secure software development practices and ethical hacking techniques in a real-world scenario.
 
 #### Smart Contract based Payment Gateway
+[More details..](./proj_smartcontract.html)
 - Designed and implemented a conditional payment mechanism on an Ethereum Virtual Machine, addressing the issue of unrecoverable payments in ransomware attacks.
 - Utilized Solidity for smart contract development and Truffle as the development environment and testing framework.
 - This project demonstrated a novel use of blockchain technology to provide security and assurance in high-risk transactions
@@ -69,8 +78,3 @@ Chennai, India
 ## ACTIVITIES AND HONORS
 - 2018: Received the company-wide WOW Award at Symantec for exceptional performance and contributions.
 - 2014: Awarded the National All India Council for Technical Education Scholarship for academic excellence.
-
-## Social Media Links ;)
-[LinkedIn](https://www.linkedin.com/in/ninad-shetty-352336129/ ) : 
- 
-[Twitter]( https://twitter.com/IamNinaad) 
