@@ -57,17 +57,20 @@ Chennai, India
 
 ## PROJECTS
 
-#### eCommerce bot detection and analysis
+#### eCommerce bot detection and analysis 
+[More details..](./proj_ecommercebot.html)
 - Developed a robust bot detection system for e-commerce platforms aimed at differentiating bots from legitimate users, using Python, JavaScript, Selenium, and Flask.
 - Conducted extensive research to understand and counteract advanced bot techniques. Utilized various methodologies, including CAPTCHA, Browser Fingerprinting, IP Tracking, Honeypots, response time analysis, and User Agent identification to create a comprehensive bot-detection model.
 - Engineered a rating model that predicts the likelihood of a site visitor being a human or a malicious bot, improving website security and user experience.
 
 #### Secure eVoting Machine Development and Penetration Testing
+[More details..](./proj_evm.html)
 - Designed and developed a secure eVoting machine, implementing SQL injection prevention, data encryption, multi-factor authentication, and user role management to bolster system security.
 - Conducted penetration testing on peers' voting machines, identifying vulnerabilities that could potentially manipulate election results, and suggested remedial measures.
 - This project demonstrated the application of secure software development practices and ethical hacking techniques in a real-world scenario.
 
 #### Smart Contract based Payment Gateway
+[More details..](./proj_smartcontract.html)
 - Designed and implemented a conditional payment mechanism on an Ethereum Virtual Machine, addressing the issue of unrecoverable payments in ransomware attacks.
 - Utilized Solidity for smart contract development and Truffle as the development environment and testing framework.
 - This project demonstrated a novel use of blockchain technology to provide security and assurance in high-risk transactions
