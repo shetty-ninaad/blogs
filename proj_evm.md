@@ -4,4 +4,8 @@ layout: default
 [back](./)
 ## Securing Electronic Voting Machines
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJiMuQYvyWyjFoDn0EQzjAGdVtJxQBEpIKubpxmHOBqs072nUXIsK2eu9X61F40K5h591EVf7vOahK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<object data="./evm_report.pdf" type="application/pdf" width="1200px" height="800px">
+    <embed src="./evm_report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./evm_report.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
