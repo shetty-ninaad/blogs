@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-
-## Welcome to another page
-
-_yay_
-
 [back](./)
+## Bots on eCommerce websites
+
+<object data="./Bot_eCommerce.pdf" type="application/pdf" width="900px" height="900px">
+    <embed src="./Bot_eCommerce.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Bot_eCommerce.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
