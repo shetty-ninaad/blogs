@@ -16,6 +16,7 @@ My professional journey has been equally exciting. From developing a scalable to
 - **Operating Systems**: Windows, Linux, Debian, Kali Linux
 - **Cybersecurity**: Penetration Testing, Static Code Scanning, Threat Modeling, Network Security
 - **Software Development**: Full Stack Development, Backend Development, Automation, Network Module Development
+
 #### Soft Skills:
 - **Communication**: Collaborating with teams, presenting to stakeholders
 - **Problem-Solving**: Identifying and fixing security vulnerabilities, addressing system inconsistencies
@@ -70,7 +71,7 @@ Chennai, India
 - 2018: Received the company-wide WOW Award at Symantec for exceptional performance and contributions.
 - 2014: Awarded the National All India Council for Technical Education Scholarship for academic excellence.
 
-## Social Media Links ;)
-[LinkedIn](https://www.linkedin.com/in/ninad-shetty-352336129/ ) : 
+## Social Media Links 
+[LinkedIn](https://www.linkedin.com/in/ninad-shetty-352336129/ ) 
  
 [Twitter]( https://twitter.com/IamNinaad) 
