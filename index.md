@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ## About Me
 Innovator, Problem-solver, Software Engineer, and Cybersecurity Specialist - I wear many hats but at the core of it all, I am a tech enthusiast who thrives on transforming challenges into opportunities.
 
@@ -9,7 +8,17 @@ With an M.S. in Security Informatics from Johns Hopkins University and a B.Tech.
 
 My professional journey has been equally exciting. From developing a scalable tool at Amazon Web Services to innovating a unique security feature at Norton LifeLock, I have consistently pushed boundaries to ensure robust and secure systems. My knack for integrating interfaces, extending automation frameworks, and creating dashboards for metric collection highlights my versatility in navigating the tech landscape.
 
-[LinkedIn](https://www.linkedin.com/in/ninad-shetty-352336129/ ) | [Twitter]( https://twitter.com/IamNinaad) 
+[LinkedIn](https://www.linkedin.com/in/ninad-shetty-352336129/ )
+[Twitter]( https://twitter.com/IamNinaad) 
+
+## Blogs/Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## SKILLS
 #### Technical Skills:
