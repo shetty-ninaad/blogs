@@ -1,8 +1,7 @@
 ---
 title: "AI and Cybersecurity"
 date: 2023-05-16
-author : "Ninad Shetty (c)"
-published: true
+layout: posts
 ---
 ## The Role of AI in Spear Phishing: A Case Study of OpenAI's GPT Models
 
