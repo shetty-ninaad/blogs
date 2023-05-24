@@ -1,7 +1,8 @@
 ---
-layout : posts
-title: "Software as a Medical Device"
-date: 2023-05-17
+layout: post
+title: "Software-as-a-Medical-Device"
+date: 2023-05-17 12:00:00 -0000
+categories: SECURITY
 ---
 ## What is Software as a Medical Device and what do we need to know?
 
