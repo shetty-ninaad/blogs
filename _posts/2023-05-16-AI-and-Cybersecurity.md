@@ -1,7 +1,8 @@
 ---
-title: "AI and Cybersecurity"
-date: 2023-05-16
-layout: posts
+layout: post
+title: "AI-and-Cybersecurity"
+date: 2023-05-16 12:00:00 -0000
+categories: AI SECURITY
 ---
 ## The Role of AI in Spear Phishing: A Case Study of OpenAI's GPT Models
 
